@@ -11,7 +11,7 @@ class Fraction
     // The bottom number is the denominator
     private int _bottom;
 
-    // Create the default constructor that does not receive any parameters. This initializes the fraction to 1/1.
+    // Create the default constructor that does not receive any parameters
     public Fraction()
     {
         _top = 1;
